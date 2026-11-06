@@ -4,6 +4,6 @@
     "type": "drupal-module",
     "license": "MIT",
     "require": {
-        "drupal/config_update": "2.0.0-alpha3"
+        "drupal/config_update": "2.0.0-alpha4"
     }
 }
